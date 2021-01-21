@@ -1,0 +1,2 @@
+lean github in 10p
+vào github tạo một ressponruty mới , sau đó sẽ có hướng dẫn, cần đẩy project của mình lên trên res đấy theo hướng dẫn
